@@ -20,6 +20,6 @@ Abre google colab o haz click en el siguiente enlace https://colab.research.goog
 o abre el notebook `.ipynb` en GitHub y abre el archivo en Colab.
 
 ## 📝GUIA DE REPRODUCCION. 
-1. Abre `notebooks/everpeak_analysis.ipynb`
+1. Abre `S7_Version_Estudiante_Project_ConnectaTel.ipynb`
 2. Ejecuta las celdas en orden
 3. El notebook carga automáticamente el dataset desde `/data/` o desde un enlace público (según corresponda)
